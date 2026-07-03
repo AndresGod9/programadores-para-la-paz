@@ -1,0 +1,7 @@
+Considero que es importante que las comunidades puedan crear sus propias herramientas tecnológicas porque así pueden desarrollar soluciones adaptadas a sus necesidades. 
+Tecnologías abiertas como Node.js permiten crear aplicaciones sin depender de software propietario. 
+Además, facilitan el aprendizaje y el trabajo colaborativo entre desarrolladores. 
+Estas herramientas ayudan a mejorar la comunicación y la organización de diferentes proyectos. 
+También permiten que más personas participen en el desarrollo de soluciones digitales. 
+Como estudiante de Ingeniería de Software, considero que aprender Node.js amplía nuestras oportunidades de crear aplicaciones útiles para la sociedad. 
+Por eso pienso que el uso de tecnologías abiertas favorece la innovación y el crecimiento de las comunidades.
