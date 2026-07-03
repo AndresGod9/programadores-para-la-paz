@@ -1,0 +1,8 @@
+Considero que mantener un registro de cambios es muy importante porque permite conocer todo lo que se ha realizado en un proyecto de software. 
+Herramientas como Git ayudan a organizar el trabajo y a evitar la pérdida de información. 
+Además, facilitan la colaboración cuando varias personas trabajan en el mismo proyecto. 
+Cada cambio queda registrado y puede recuperarse si ocurre algún error. 
+Esto brinda mayor seguridad durante el desarrollo. 
+También permite entender cómo ha evolucionado el proyecto con el paso del tiempo. 
+Como futuro ingeniero de software, considero que aprender a utilizar Git será muy útil tanto en la universidad como en el ámbito laboral. 
+Por eso creo que el control de versiones es una herramienta fundamental para desarrollar proyectos de manera organizada.
