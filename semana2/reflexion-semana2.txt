@@ -1,7 +1,7 @@
 Considero que aprender a usar la terminal es importante porque permite trabajar de forma más rápida y organizada dentro de un proyecto.
 Con los comandos adecuados podemos crear carpetas, archivos y movernos entre directorios sin depender de programas gráficos. 
 Además, muchas herramientas de desarrollo utilizan la terminal para ejecutar procesos importantes. 
-También facilita el uso de Git para guardar y publicar los cambios realizados en un proyecto. 
+También facilita el uso de Github para guardar y publicar los cambios realizados en un proyecto. 
 Como estudiante de Ingeniería de Software, pienso que dominar estos comandos será muy útil durante la carrera y en el trabajo. 
 Practicar constantemente ayuda a ganar confianza y a resolver tareas de manera más eficiente. 
 Por eso considero que la terminal es una herramienta fundamental para cualquier desarrollador.
