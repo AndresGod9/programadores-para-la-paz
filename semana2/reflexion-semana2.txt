@@ -5,3 +5,4 @@ También facilita el uso de Github para guardar y publicar los cambios realizado
 Como estudiante de Ingeniería de Software, pienso que dominar estos comandos será muy útil durante la carrera y en el trabajo. 
 Practicar constantemente ayuda a ganar confianza y a resolver tareas de manera más eficiente. 
 Por eso considero que la terminal es una herramienta fundamental para cualquier desarrollador.
+Además, practicar el uso de la terminal me ayudará a desarrollar proyectos de una forma más organizada y eficiente.
