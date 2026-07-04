@@ -1,1 +1,8 @@
-Considero que es importante que las comunidades puedan registrar y consultar reportes en una plataforma tecnológica porque esto facilita la organización y el seguimiento de los problemas que afectan a la comunidad. Además, permite que la información esté disponible para las personas autorizadas y ayuda a tomar decisiones con base en datos reales. También mejora la comunicación entre los ciudadanos y las entidades responsables. Este tipo de herramientas permite llevar un control más ordenado de las incidencias registradas. Como estudiante de Ingeniería de Software, considero que aprender a desarrollar estas aplicaciones será muy útil en mi formación profesional. Por eso pienso que las plataformas tecnológicas fortalecen la participación ciudadana y contribuyen a encontrar soluciones de manera más eficiente.
+Considero que es importante que las comunidades puedan registrar y consultar reportes en una plataforma tecnológica porque esto facilita la organización y el seguimiento de los problemas que afectan a la comunidad. 
+Además, permite que la información esté disponible para las personas autorizadas y ayuda a tomar decisiones con base en datos reales. 
+También mejora la comunicación entre los ciudadanos y las entidades responsables. 
+Este tipo de herramientas permite llevar un control más ordenado de las incidencias registradas.
+Como estudiante de Ingeniería de Software, considero que aprender a desarrollar estas aplicaciones será muy útil en mi formación profesional. 
+Por eso pienso que las plataformas tecnológicas fortalecen la participación ciudadana y contribuyen a encontrar soluciones de manera más eficiente.
+Además, registrar los reportes de forma organizada facilita su seguimiento y permite encontrar soluciones con mayor rapidez. 
+Estas herramientas también fomentan la colaboración entre los ciudadanos y fortalecen el trabajo conjunto para mejorar la comunidad.
