@@ -5,3 +5,4 @@ También es importante realizar copias de seguridad y monitorear el funcionamien
 Como estudiante de Ingeniería de Software, considero que aprender estas buenas prácticas será muy útil para desarrollar aplicaciones confiables. 
 Una plataforma estable permite ofrecer un mejor servicio a la comunidad. 
 Por eso pienso que la estabilidad y la seguridad son fundamentales para garantizar la continuidad y la confianza de los usuarios.
+Además, una plataforma estable y bien administrada permite ofrecer un servicio continuo, seguro y de mayor calidad para toda la comunidad.
