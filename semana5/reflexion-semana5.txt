@@ -5,3 +5,4 @@ Además, ayudan a automatizar procesos y a responder más rápidamente a las nec
 Tecnologías como Node.js y Express permiten desarrollar este tipo de herramientas de manera sencilla. 
 Como estudiante de Ingeniería de Software, considero que aprender a crear APIs será muy útil para desarrollar soluciones prácticas. 
 Por eso pienso que las APIs contribuyen a mejorar la organización y la participación dentro de una comunidad.
+Además, el uso de APIs facilita el intercambio de información entre diferentes sistemas de forma rápida y segura.
