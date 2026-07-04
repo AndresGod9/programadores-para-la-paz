@@ -5,3 +5,4 @@ Estas herramientas ayudan a mejorar la comunicación y la organización de difer
 También permiten que más personas participen en el desarrollo de soluciones digitales. 
 Como estudiante de Ingeniería de Software, considero que aprender Node.js amplía nuestras oportunidades de crear aplicaciones útiles para la sociedad. 
 Por eso pienso que el uso de tecnologías abiertas favorece la innovación y el crecimiento de las comunidades.
+También considero que aprender estas tecnologías nos prepara para desarrollar aplicaciones útiles en diferentes ámbitos de la sociedad.
