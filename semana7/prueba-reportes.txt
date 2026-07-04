@@ -1,0 +1,1 @@
+Al consultar la ruta GET /reportes, el servidor devuelve la lista de reportes registrados en memoria. Si previamente se registró un reporte mediante la ruta POST, este aparecerá en la respuesta. Si no se ha registrado ninguno, la respuesta será un arreglo vacío ([]).
