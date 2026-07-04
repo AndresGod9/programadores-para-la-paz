@@ -1,0 +1,11 @@
+Ruta: /
+Resultado:
+El servidor responde con el mensaje "Servidor activo".
+
+Ruta: /saludo
+Resultado:
+El servidor responde con el mensaje "Hola comunidad".
+
+Ruta: /mensaje/juan
+Resultado:
+El servidor recibe el nombre "juan" como parámetro y responde con el mensaje "Hola juan".

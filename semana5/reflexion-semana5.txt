@@ -1,0 +1,7 @@
+Considero que las APIs son muy importantes porque permiten compartir información de forma organizada entre diferentes aplicaciones. 
+En una comunidad pueden utilizarse para enviar reportes, recibir alertas o consultar información actualizada. 
+Esto facilita la comunicación entre los ciudadanos y las organizaciones. 
+Además, ayudan a automatizar procesos y a responder más rápidamente a las necesidades de las personas. 
+Tecnologías como Node.js y Express permiten desarrollar este tipo de herramientas de manera sencilla. 
+Como estudiante de Ingeniería de Software, considero que aprender a crear APIs será muy útil para desarrollar soluciones prácticas. 
+Por eso pienso que las APIs contribuyen a mejorar la organización y la participación dentro de una comunidad.
