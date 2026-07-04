@@ -4,3 +4,5 @@ También mejora la comunicación entre la comunidad y las entidades responsables
 Este tipo de herramientas permite registrar incidencias de forma ordenada y realizar un mejor seguimiento. 
 Como estudiante de Ingeniería de Software, considero que aprender a desarrollar estos servicios será muy útil para crear aplicaciones que beneficien a la sociedad. 
 Por eso pienso que recibir información de forma organizada fortalece la participación ciudadana y contribuye a una mejor gestión de los problemas de la comunidad.
+Además, una buena organización de la información permite dar seguimiento a cada reporte y encontrar soluciones con mayor facilidad. 
+Por ello, considero que estas herramientas fortalecen la comunicación entre los ciudadanos y las entidades responsables.
