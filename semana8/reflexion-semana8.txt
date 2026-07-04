@@ -5,3 +5,4 @@ También es importante mantener los sistemas actualizados para reducir riesgos.
 Como estudiante de Ingeniería de Software, considero que conocer estas prácticas será muy útil para desarrollar aplicaciones más seguras. 
 Una plataforma protegida genera mayor confianza entre sus usuarios y favorece la participación responsable. 
 Por eso pienso que la seguridad digital es un aspecto fundamental en cualquier proyecto tecnológico.
+Además, aplicar buenas prácticas de seguridad permite que las plataformas comunitarias sean más confiables, seguras y útiles para todos sus usuarios.
