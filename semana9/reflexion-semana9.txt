@@ -1,0 +1,7 @@
+Considero que es muy importante que las plataformas tecnológicas funcionen de manera estable y segura porque muchas personas dependen de ellas para comunicarse y acceder a información importante. 
+Cuando un servidor presenta fallas constantes, los usuarios pueden perder la confianza en la plataforma. 
+Además, mantener el sistema actualizado y protegido ayuda a evitar problemas de seguridad. 
+También es importante realizar copias de seguridad y monitorear el funcionamiento del servidor para detectar errores a tiempo. 
+Como estudiante de Ingeniería de Software, considero que aprender estas buenas prácticas será muy útil para desarrollar aplicaciones confiables. 
+Una plataforma estable permite ofrecer un mejor servicio a la comunidad. 
+Por eso pienso que la estabilidad y la seguridad son fundamentales para garantizar la continuidad y la confianza de los usuarios.
