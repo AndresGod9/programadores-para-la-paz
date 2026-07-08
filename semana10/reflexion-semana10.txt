@@ -1,0 +1,7 @@
+Considero que las metodologías ágiles ayudan a organizar mejor el trabajo porque permiten dividir las tareas en pequeños objetivos y revisar el progreso constantemente. 
+El uso de un backlog facilita establecer prioridades y mantener el orden del proyecto.
+Además, la automatización puede ahorrar tiempo al realizar tareas repetitivas como el envío de notificaciones. 
+Herramientas como Telegram mejoran la comunicación entre los miembros del equipo y permiten responder más rápidamente a las necesidades de la comunidad. 
+También es importante revisar siempre los procesos automáticos para evitar errores o el envío de información sensible. 
+Como estudiante de Ingeniería de Software, considero que estas herramientas serán muy útiles para desarrollar proyectos colaborativos. 
+Por eso pienso que la organización y la automatización fortalecen la participación ciudadana y mejoran el trabajo en equipo.
