@@ -1,0 +1,8 @@
+Considero que una plataforma tecnológica necesita una base de datos porque permite almacenar y organizar la información de forma segura. 
+También es importante contar con autenticación para que solo los usuarios autorizados puedan acceder a determinadas funciones. 
+Esto ayuda a proteger la información y evita accesos no permitidos. 
+Además, la protección de datos genera mayor confianza entre los usuarios de la plataforma. 
+Una buena organización de la información facilita el seguimiento de reportes y la participación de la comunidad. 
+Como estudiante de Ingeniería de Software, considero que estos elementos son fundamentales para desarrollar aplicaciones confiables. 
+También permiten mantener un mejor control de la información y proteger la privacidad de las personas. 
+Por eso pienso que una plataforma ciudadana debe priorizar siempre la seguridad, la organización y el acceso responsable a los datos.
