@@ -1,0 +1,7 @@
+Durante este curso aprendí que la tecnología puede ser una herramienta muy útil para fortalecer la participación ciudadana y la organización de las comunidades. 
+También comprendí la importancia de proteger la información y respetar la privacidad de los usuarios. 
+Aprendí que una buena plataforma necesita una base de datos organizada, autenticación y medidas de seguridad. 
+Además, conocí herramientas como Git, GitHub, Node.js y metodologías ágiles para desarrollar proyectos de forma ordenada. 
+Las automatizaciones también ayudan a mejorar la comunicación y ahorrar tiempo en tareas repetitivas. 
+Como estudiante de Ingeniería de Software, considero que estos conocimientos serán muy importantes en mi formación profesional. 
+Pienso que la tecnología puede generar un impacto positivo cuando se utiliza de manera responsablePor eso creo que desarrollar soluciones útiles y seguras beneficia tanto a las personas como a las comunidades.
